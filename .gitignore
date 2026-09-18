@@ -1,0 +1,16 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 导出的Excel文件
+exports/*.xlsx
+exports/*.xls
+
+# 环境变量密钥
+.env
+
+# IDE
+.idea/
+.vscode/
